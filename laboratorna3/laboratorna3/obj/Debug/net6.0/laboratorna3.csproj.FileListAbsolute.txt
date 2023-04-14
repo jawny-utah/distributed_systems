@@ -1,0 +1,15 @@
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\bin\Debug\net6.0\laboratorna3.exe
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\bin\Debug\net6.0\laboratorna3.deps.json
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\bin\Debug\net6.0\laboratorna3.runtimeconfig.json
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\bin\Debug\net6.0\laboratorna3.dll
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\bin\Debug\net6.0\laboratorna3.pdb
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\laboratorna3.csproj.AssemblyReference.cache
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\laboratorna3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\laboratorna3.AssemblyInfoInputs.cache
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\laboratorna3.AssemblyInfo.cs
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\laboratorna3.csproj.CoreCompileInputs.cache
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\laboratorna3.dll
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\refint\laboratorna3.dll
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\laboratorna3.pdb
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\laboratorna3.genruntimeconfig.cache
+C:\Users\slide\source\repos\laboratorna3\laboratorna3\obj\Debug\net6.0\ref\laboratorna3.dll
