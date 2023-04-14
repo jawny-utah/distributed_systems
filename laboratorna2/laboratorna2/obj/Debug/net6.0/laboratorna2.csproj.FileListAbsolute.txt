@@ -1,0 +1,15 @@
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\bin\Debug\net6.0\laboratorna2.exe
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\bin\Debug\net6.0\laboratorna2.deps.json
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\bin\Debug\net6.0\laboratorna2.runtimeconfig.json
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\bin\Debug\net6.0\laboratorna2.dll
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\bin\Debug\net6.0\laboratorna2.pdb
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\laboratorna2.csproj.AssemblyReference.cache
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\laboratorna2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\laboratorna2.AssemblyInfoInputs.cache
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\laboratorna2.AssemblyInfo.cs
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\laboratorna2.csproj.CoreCompileInputs.cache
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\laboratorna2.dll
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\refint\laboratorna2.dll
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\laboratorna2.pdb
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\laboratorna2.genruntimeconfig.cache
+C:\Users\slide\source\repos\laboratorna2\laboratorna2\obj\Debug\net6.0\ref\laboratorna2.dll
