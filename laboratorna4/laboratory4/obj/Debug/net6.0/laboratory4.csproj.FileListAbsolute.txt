@@ -1,0 +1,15 @@
+C:\Users\slide\source\repos\laboratorna4\laboratory4\bin\Debug\net6.0\laboratory4.exe
+C:\Users\slide\source\repos\laboratorna4\laboratory4\bin\Debug\net6.0\laboratory4.deps.json
+C:\Users\slide\source\repos\laboratorna4\laboratory4\bin\Debug\net6.0\laboratory4.runtimeconfig.json
+C:\Users\slide\source\repos\laboratorna4\laboratory4\bin\Debug\net6.0\laboratory4.dll
+C:\Users\slide\source\repos\laboratorna4\laboratory4\bin\Debug\net6.0\laboratory4.pdb
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\laboratory4.csproj.AssemblyReference.cache
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\laboratory4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\laboratory4.AssemblyInfoInputs.cache
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\laboratory4.AssemblyInfo.cs
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\laboratory4.csproj.CoreCompileInputs.cache
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\laboratory4.dll
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\refint\laboratory4.dll
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\laboratory4.pdb
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\laboratory4.genruntimeconfig.cache
+C:\Users\slide\source\repos\laboratorna4\laboratory4\obj\Debug\net6.0\ref\laboratory4.dll
